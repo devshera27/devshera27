@@ -1,4 +1,4 @@
-```markdown
+
 # GNDEC Ludhiana Induction Program
 
 ## Day 1
